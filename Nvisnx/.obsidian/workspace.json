@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "11781597106ff233",
+    "type": "split",
+    "children": [
+      {
+        "id": "51caa90496bd3984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f731a4d659283502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Connectors/Google Drive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9379843f2497722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actions/Create simple classifier.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29f797d811f766d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a85e46909cce832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2950d7df3269ca21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de4bfbfc9e812e5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f9a8ccb7b0e9853",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ae95fb11126cf50",
+    "type": "split",
+    "children": [
+      {
+        "id": "689468fb62935d12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06fb6ac87e07c32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Actions/Create simple classifier.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "178e9fed3612262e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Actions/Create simple classifier.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "597b3e5373cbf099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbeffecc8a9d2dc2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Actions/Create simple classifier.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e9379843f2497722",
+  "lastOpenFiles": [
+    "media/Screenshot from 2023-11-14 21-25-32.png",
+    "media",
+    "Attachments/Screenshot from 2023-11-14 21-25-32.png",
+    "Attachments",
+    "Screenshot from 2023-11-14 21-25-32.png",
+    "Classifiers/Classifiers.md",
+    "Actions/Create simple classifier.md",
+    "Actions",
+    "Actions/Create User.md",
+    "Connectors/Google Drive.md",
+    "Connectors",
+    "Models/Query.md",
+    "Classifiers/Advanced Classifiers.md",
+    "Models/ClassificationJson.md",
+    "Models",
+    "Classifiers",
+    "Models/EmbeddedClassifierInfo.md",
+    "Models/Models.md"
+  ]
+}

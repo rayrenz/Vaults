@@ -1,0 +1,1 @@
+[[EmbeddedClassifierInfo]] - acts as a blackbox to classifiers created from the contextual classification tree
