@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f667c1ad51bc46fb",
+        "id": "205ead918ea9b76f",
         "type": "tabs",
         "children": [
           {
-            "id": "883378d21aa7776a",
+            "id": "b6290b12cd1fada2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealPython/Document Python Code and Projects with ChatGPT.md",
+                "file": "Introduction to GCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealPython/Document Python Code and Projects with ChatGPT.md",
+                "file": "Introduction to GCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealPython/Document Python Code and Projects with ChatGPT.md",
+                "file": "Introduction to GCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealPython/Document Python Code and Projects with ChatGPT.md"
+                "file": "Introduction to GCP.md"
               }
             }
           }
@@ -145,8 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "883378d21aa7776a",
+  "active": "b6290b12cd1fada2",
   "lastOpenFiles": [
+    "Introduction to GCP.md",
+    "Learning.md",
     "RealPython/Document Python Code and Projects with ChatGPT.md",
     "RealPython"
   ]
