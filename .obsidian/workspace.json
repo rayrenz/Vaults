@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f18210d5b2e16eb",
+        "id": "9de3bc098e6ed314",
         "type": "tabs",
         "children": [
           {
-            "id": "49b53625926cb623",
+            "id": "824470c812ead022",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Big O Notation/Summary.md",
+                "file": "Fundamentals AI Mastery for Developers/Designing Prompts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Big O Notation/Summary.md",
+                "file": "Fundamentals AI Mastery for Developers/Designing Prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Big O Notation/Summary.md",
+                "file": "Fundamentals AI Mastery for Developers/Designing Prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Big O Notation/Summary.md"
+                "file": "Fundamentals AI Mastery for Developers/Designing Prompts.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49b53625926cb623",
+  "active": "824470c812ead022",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Big O Notation/Big O of Lists.md",
+    "Untitled.md",
+    "Fundamentals AI Mastery for Developers/Designing Prompts.md",
+    "Fundamentals AI Mastery for Developers",
     "Data Structures and Algorithms/Big O Notation/Summary.md",
+    "Data Structures and Algorithms/Big O Notation/Big O of Lists.md",
     "Data Structures and Algorithms/Big O Notation/Big O Notation.md",
     "2024-08-02.md",
     "Untitled.canvas",
